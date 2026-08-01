@@ -10,15 +10,6 @@ A SwiftUI + CoreBluetooth iOS app that scans for nearby Bluetooth LE devices, di
 - View discovered GATT services after connecting
 - Reactive UI via `ObservableObject` / `@Published` — no manual view refresh code
 
-## Screenshots
-
-_Add screenshots here, e.g._
-```
-| Device List | Device Detail |
-|---|---|
-| ![list](screenshots/list.png) | ![detail](screenshots/detail.png) |
-```
-
 ## Tech Stack
 
 - **SwiftUI** — declarative UI
