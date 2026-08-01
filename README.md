@@ -51,7 +51,7 @@ A SwiftUI + CoreBluetooth iOS app that scans for nearby Bluetooth LE devices, di
 ## Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/BLEScanner.git
+git clone [https://github.com/krishnakumarsah12/BLEScannerApplication.git]
 cd BLEScanner
 open BLEScanner.xcodeproj
 ```
